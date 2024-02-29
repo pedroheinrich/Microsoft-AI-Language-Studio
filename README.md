@@ -46,3 +46,28 @@ Na tela de boas vindas clique em "Classify Text" ou "Classificar texto" e em seg
 ![image](https://github.com/pedroheinrich/Microsoft-AI-Language-Studio/assets/97209403/930c1966-f6d1-475d-81c1-1d7b2ff901ab)
 
 
+Selecione o idioma "English" e ao lado estará o recurso criado anteriormente
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Language-Studio/assets/97209403/6a764e3d-d363-4558-af5f-f77ff8d6d1b0)
+
+Também da pra usar outros idiomas como Portugues-BR
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Language-Studio/assets/97209403/b8639011-ad64-4f13-bc77-ab4a29701ad8)
+
+Eu criei um texto com chatGPT
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Language-Studio/assets/97209403/e30ed5d7-2faa-4d3e-8fba-95aa936a84c3)
+
+Marque a caixinha antes de apertar em "RUN"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Language-Studio/assets/97209403/2b42a1c6-8ba2-4390-a3d5-a05e1498121e)
+
+Depois de clicar em "Run", o resultado vai aparecer logo abaixo
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Language-Studio/assets/97209403/43c4021d-e940-401c-a74b-c4f25fd34bf3)
+
+Cada sentença traz uma análise de sentimento
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Language-Studio/assets/97209403/40a66e44-8832-48f0-9031-41181caf4ece)
+
+## F I M
